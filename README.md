@@ -1,2 +1,2 @@
 # learning-log-or-100-days-of-code
-base quest
+### Day 1: Learned about Base Smart Contracts.
