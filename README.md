@@ -8,3 +8,4 @@ Configure Base Sepolia RPC
 ​Currency: ETH
 ​Explorer: https://sepolia.basescan.org/
 Also requested some testnet ETH from a faucet to prepare for contract deployments.
+Day 3: Exploring BaseScan
