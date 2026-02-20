@@ -4,3 +4,7 @@
 Day 2: Network Configuration 
 Configure Base Sepolia RPC
 ​Log: Added the Base Sepolia Testnet to my wallet today. 
+​Chain ID: 84532
+​Currency: ETH
+​Explorer: https://sepolia.basescan.org/
+Also requested some testnet ETH from a faucet to prepare for contract deployments.
