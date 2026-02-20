@@ -9,3 +9,4 @@ Configure Base Sepolia RPC
 ​Explorer: https://sepolia.basescan.org/
 Also requested some testnet ETH from a faucet to prepare for contract deployments.
 Day 3: Exploring BaseScan
+Commit Message: docs: Day 3 - Learning to read L2 transactions
