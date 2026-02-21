@@ -13,3 +13,4 @@ Commit Message: docs: Day 3 - Learning to read L2 transactions
 Log: Spent time on BaseScan today. It's interesting to see how "L1 Data Fees" and "L2 Execution Fees" are separated. Navigating the "Verified Contracts" section to see how other developers are structuring their code on Base.
 Day 4: Foundry Installation
 Commit Message: docs: Day 4 - Setup Foundry development environment
+Log: Installed Foundry today. It’s a blazing-fast toolkit for Ethereum application development written in Rust. Ran forge init to see the default project structure. I prefer this over Hardhat because I can write my tests in Solidity instead of JavaScript.
