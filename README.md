@@ -10,3 +10,4 @@ Configure Base Sepolia RPC
 Also requested some testnet ETH from a faucet to prepare for contract deployments.
 Day 3: Exploring BaseScan
 Commit Message: docs: Day 3 - Learning to read L2 transactions
+Log: Spent time on BaseScan today. It's interesting to see how "L1 Data Fees" and "L2 Execution Fees" are separated. Navigating the "Verified Contracts" section to see how other developers are structuring their code on Base.
