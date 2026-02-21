@@ -14,3 +14,4 @@ Log: Spent time on BaseScan today. It's interesting to see how "L1 Data Fees" an
 Day 4: Foundry Installation
 Commit Message: docs: Day 4 - Setup Foundry development environment
 Log: Installed Foundry today. It’s a blazing-fast toolkit for Ethereum application development written in Rust. Ran forge init to see the default project structure. I prefer this over Hardhat because I can write my tests in Solidity instead of JavaScript.
+Day 5: The Bridging Process
