@@ -15,3 +15,4 @@ Day 4: Foundry Installation
 Commit Message: docs: Day 4 - Setup Foundry development environment
 Log: Installed Foundry today. It’s a blazing-fast toolkit for Ethereum application development written in Rust. Ran forge init to see the default project structure. I prefer this over Hardhat because I can write my tests in Solidity instead of JavaScript.
 Day 5: The Bridging Process
+Commit Message: docs: Day 5 - Researching L1 to L2 bridging
