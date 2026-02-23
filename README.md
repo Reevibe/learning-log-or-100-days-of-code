@@ -22,3 +22,4 @@ docs: Day 5 - Researching L1 to L2 bridging
 Log: Documented the flow of assets. Moving ETH from Ethereum (L1) to Base (L2) involves a bridge contract. While deposits are fast (usually ~a few minutes), withdrawing back to L1 via the official bridge takes about 7 days due to the challenge period.
 Day 6: L2 Fees vs L1 Fees
 docs: Day 6 - Understanding the L1 Data Fee
+Log: Learned why Base is so cheap today. On an L2, you pay an Execution Fee (the cost to run the code on Base) and an L1 Data Fee (the cost to post that data back to Ethereum). With the recent "Dencun" upgrade and EIP-4844, "Blobs" have made the L1 Data Fee significantly cheaper.
