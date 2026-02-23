@@ -23,3 +23,4 @@ Log: Documented the flow of assets. Moving ETH from Ethereum (L1) to Base (L2) i
 Day 6: L2 Fees vs L1 Fees
 docs: Day 6 - Understanding the L1 Data Fee
 Log: Learned why Base is so cheap today. On an L2, you pay an Execution Fee (the cost to run the code on Base) and an L1 Data Fee (the cost to post that data back to Ethereum). With the recent "Dencun" upgrade and EIP-4844, "Blobs" have made the L1 Data Fee significantly cheaper.
+Day 7: Setting up Coinbase Wallet
