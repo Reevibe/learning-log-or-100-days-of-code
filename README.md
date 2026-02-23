@@ -20,3 +20,4 @@ Commit Message: docs: Day 5 - Researching L1 to L2 bridging
 Day 5: The Bridging Process
 Commit Message: docs: Day 5 - Researching L1 to L2 bridging
 Log: Documented the flow of assets. Moving ETH from Ethereum (L1) to Base (L2) involves a bridge contract. While deposits are fast (usually ~a few minutes), withdrawing back to L1 via the official bridge takes about 7 days due to the challenge period.
+Day 6: L2 Fees vs L1 Fees
