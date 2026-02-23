@@ -9,15 +9,16 @@ Configure Base Sepolia RPC
 ​Explorer: https://sepolia.basescan.org/
 Also requested some testnet ETH from a faucet to prepare for contract deployments.
 Day 3: Exploring BaseScan
-Commit Message: docs: Day 3 - Learning to read L2 transactions
+docs: Day 3 - Learning to read L2 transactions
 Log: Spent time on BaseScan today. It's interesting to see how "L1 Data Fees" and "L2 Execution Fees" are separated. Navigating the "Verified Contracts" section to see how other developers are structuring their code on Base.
 Day 4: Foundry Installation
-Commit Message: docs: Day 4 - Setup Foundry development environment
+docs: Day 4 - Setup Foundry development environment
 Log: Installed Foundry today. It’s a blazing-fast toolkit for Ethereum application development written in Rust. Ran forge init to see the default project structure. I prefer this over Hardhat because I can write my tests in Solidity instead of JavaScript.
 Day 5: The Bridging Process
-Commit Message: docs: Day 5 - Researching L1 to L2 bridging
+docs: Day 5 - Researching L1 to L2 bridging
 ​Log: Installed Foundry today. It’s a blazing-fast toolkit for Ethereum application development written in Rust. Ran forge init to see the default project structure. I prefer this over Hardhat because I can write my tests in Solidity instead of JavaScript.
 Day 5: The Bridging Process
-Commit Message: docs: Day 5 - Researching L1 to L2 bridging
+docs: Day 5 - Researching L1 to L2 bridging
 Log: Documented the flow of assets. Moving ETH from Ethereum (L1) to Base (L2) involves a bridge contract. While deposits are fast (usually ~a few minutes), withdrawing back to L1 via the official bridge takes about 7 days due to the challenge period.
 Day 6: L2 Fees vs L1 Fees
+docs: Day 6 - Understanding the L1 Data Fee
