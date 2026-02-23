@@ -19,3 +19,4 @@ Commit Message: docs: Day 5 - Researching L1 to L2 bridging
 ​Log: Installed Foundry today. It’s a blazing-fast toolkit for Ethereum application development written in Rust. Ran forge init to see the default project structure. I prefer this over Hardhat because I can write my tests in Solidity instead of JavaScript.
 Day 5: The Bridging Process
 Commit Message: docs: Day 5 - Researching L1 to L2 bridging
+Log: Documented the flow of assets. Moving ETH from Ethereum (L1) to Base (L2) involves a bridge contract. While deposits are fast (usually ~a few minutes), withdrawing back to L1 via the official bridge takes about 7 days due to the challenge period.
