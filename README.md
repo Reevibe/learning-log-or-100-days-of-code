@@ -30,3 +30,4 @@ Day 8: Verified Contracts
 docs: Day 8 - Analyzing Verified Contracts on BaseScan
 ​Log: Spent time reading through verified source code on BaseScan. I looked at a few popular NFT projects to see how they handle mint functions and how they optimize for gas by using ERC721A instead of the standard ERC721.
 Day 9: Hardhat vs Foundry
+docs: Day 9 - Comparing Dev Tooling
