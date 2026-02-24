@@ -26,3 +26,4 @@ Log: Learned why Base is so cheap today. On an L2, you pay an Execution Fee (the
 Day 7: Setting up Coinbase Wallet
 docs: Day 7 - Integrated Coinbase Wallet for Dev
 Log: Set up a dedicated developer wallet using Coinbase Wallet. It has great native support for Base and makes it easy to toggle between Mainnet and Sepolia Testnet. I’m focusing on the "Smart Wallet" features which allow for easier onboarding.
+Day 8: Verified Contracts
