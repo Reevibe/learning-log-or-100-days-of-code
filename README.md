@@ -35,3 +35,4 @@ docs: Day 9 - Comparing Dev Tooling
 Day 10: Week 2 Summary
 docs: Day 10 - Milestone 1 Recap
 Log: Two weeks in! I now have a solid grasp of how Base sits on top of Ethereum. My environment is fully configured, I have testnet funds, and I’ve analyzed several production-grade contracts. Next week, I’ll start documenting the actual code logic.
+Day 11: Solidity Syntax Deep Dive
