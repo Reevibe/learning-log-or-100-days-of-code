@@ -37,3 +37,4 @@ docs: Day 10 - Milestone 1 Recap
 Log: Two weeks in! I now have a solid grasp of how Base sits on top of Ethereum. My environment is fully configured, I have testnet funds, and I’ve analyzed several production-grade contracts. Next week, I’ll start documenting the actual code logic.
 Day 11: Solidity Syntax Deep Dive
 docs: Day 11 - Researching Solidity 0.8.x features
+Log: Focused on Solidity 0.8.x updates today. The biggest change is the built-in overflow/underflow checking, which means we no longer need the SafeMath library. I’m also looking at the custom errors feature (error Unauthorized();), which is much more gas-efficient than using long strings in require statements.
