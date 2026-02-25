@@ -33,3 +33,4 @@ Day 9: Hardhat vs Foundry
 docs: Day 9 - Comparing Dev Tooling
 ​Log: Doing a deep dive comparison. While Foundry is fast and uses Solidity for tests, Hardhat has a massive plugin ecosystem (like hardhat-deploy). For my next small contract, I’ll likely stick with Foundry for the speed.
 Day 10: Week 2 Summary
+docs: Day 10 - Milestone 1 Recap
