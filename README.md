@@ -34,3 +34,4 @@ docs: Day 9 - Comparing Dev Tooling
 ​Log: Doing a deep dive comparison. While Foundry is fast and uses Solidity for tests, Hardhat has a massive plugin ecosystem (like hardhat-deploy). For my next small contract, I’ll likely stick with Foundry for the speed.
 Day 10: Week 2 Summary
 docs: Day 10 - Milestone 1 Recap
+Log: Two weeks in! I now have a solid grasp of how Base sits on top of Ethereum. My environment is fully configured, I have testnet funds, and I’ve analyzed several production-grade contracts. Next week, I’ll start documenting the actual code logic.
