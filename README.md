@@ -46,3 +46,4 @@ docs: Day 13 - Adding OpenZeppelin standard imports
 Log: Instead of writing every token function from scratch, I’m using OpenZeppelin’s audited libraries.
 ​import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 This ensures the contract follows the standard perfectly and includes security best practices like internal _mint logic.
+Day 14: Deployment Script Basics
