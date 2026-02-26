@@ -43,3 +43,6 @@ docs: Day 12 - Drafting ERC-20 implementation
 ​Log: Started drafting a basic fungible token (ERC-20). The core logic involves a mapping(address => uint256) to track balances and a transfer function. On Base, keeping these contracts lean is key to ensuring the L1 data fee stays as low as possible for users.
 Day 13: OpenZeppelin Library Integration
 docs: Day 13 - Adding OpenZeppelin standard imports
+Log: Instead of writing every token function from scratch, I’m using OpenZeppelin’s audited libraries.
+​import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
+This ensures the contract follows the standard perfectly and includes security best practices like internal _mint logic.
