@@ -40,3 +40,4 @@ docs: Day 11 - Researching Solidity 0.8.x features
 Log: Focused on Solidity 0.8.x updates today. The biggest change is the built-in overflow/underflow checking, which means we no longer need the SafeMath library. I’m also looking at the custom errors feature (error Unauthorized();), which is much more gas-efficient than using long strings in require statements.
 Day 12: ERC-20 Token Logic
 docs: Day 12 - Drafting ERC-20 implementation
+​Log: Started drafting a basic fungible token (ERC-20). The core logic involves a mapping(address => uint256) to track balances and a transfer function. On Base, keeping these contracts lean is key to ensuring the L1 data fee stays as low as possible for users.
