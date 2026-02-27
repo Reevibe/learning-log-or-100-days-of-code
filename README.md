@@ -51,3 +51,4 @@ docs: Day 14 - Writing the deployment script logic
 Log: Working on the script to actually push the contract to the chain. In Foundry, this means creating a Contract.s.sol script. I’m making sure to use vm.startBroadcast() so the transactions are actually signed and sent to the Base Sepolia testnet, not just simulated locally.
 Day 15: Constructors vs. Initializers
 docs: Day 15 - Learning about Upgradeable Contract patterns
+Log: Interesting discovery today: if a contract is "Upgradeable," it cannot use a standard constructor. Instead, it uses an initialize function. This is because the Proxy contract doesn't see the logic contract's constructor. I'm documenting the Initializable pattern from OpenZeppelin to keep my options open for future upgrades.
