@@ -47,3 +47,4 @@ Log: Instead of writing every token function from scratch, I’m using OpenZeppe
 ​import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 This ensures the contract follows the standard perfectly and includes security best practices like internal _mint logic.
 Day 14: Deployment Script Basics
+docs: Day 14 - Writing the deployment script logic
