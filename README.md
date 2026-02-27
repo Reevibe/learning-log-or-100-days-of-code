@@ -48,3 +48,4 @@ Log: Instead of writing every token function from scratch, I’m using OpenZeppe
 This ensures the contract follows the standard perfectly and includes security best practices like internal _mint logic.
 Day 14: Deployment Script Basics
 docs: Day 14 - Writing the deployment script logic
+Log: Working on the script to actually push the contract to the chain. In Foundry, this means creating a Contract.s.sol script. I’m making sure to use vm.startBroadcast() so the transactions are actually signed and sent to the Base Sepolia testnet, not just simulated locally.
