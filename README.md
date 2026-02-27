@@ -52,3 +52,4 @@ Log: Working on the script to actually push the contract to the chain. In Foundr
 Day 15: Constructors vs. Initializers
 docs: Day 15 - Learning about Upgradeable Contract patterns
 Log: Interesting discovery today: if a contract is "Upgradeable," it cannot use a standard constructor. Instead, it uses an initialize function. This is because the Proxy contract doesn't see the logic contract's constructor. I'm documenting the Initializable pattern from OpenZeppelin to keep my options open for future upgrades.
+Day 16: ERC-721 (NFT) Standards
