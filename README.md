@@ -57,3 +57,4 @@ docs: Day 16 - Researching ERC-721 NFT implementation
 Log: Moving from fungible tokens to NFTs. I’m studying the ERC721 standard. Unlike ERC-20, each token ID here is unique. I’m looking at how Base handles NFT minting—low fees make it a prime spot for large-scale generative art collections.
 Day 17: NFT Metadata & IPFS
 docs: Day 17 - Understanding TokenURI and Metadata
+Log: Learned that NFT images aren't usually "on-chain." Instead, the contract stores a tokenURI that points to a JSON file, often hosted on IPFS. I’m documenting how to structure this metadata so that marketplaces like OpenSea can display the traits and images correctly.
