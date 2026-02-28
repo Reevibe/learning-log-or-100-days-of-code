@@ -58,3 +58,4 @@ Log: Moving from fungible tokens to NFTs. I’m studying the ERC721 standard. Un
 Day 17: NFT Metadata & IPFS
 docs: Day 17 - Understanding TokenURI and Metadata
 Log: Learned that NFT images aren't usually "on-chain." Instead, the contract stores a tokenURI that points to a JSON file, often hosted on IPFS. I’m documenting how to structure this metadata so that marketplaces like OpenSea can display the traits and images correctly.
+Day 18: Access Control (Ownable)
