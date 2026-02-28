@@ -55,3 +55,4 @@ Log: Interesting discovery today: if a contract is "Upgradeable," it cannot use 
 Day 16: ERC-721 (NFT) Standards
 docs: Day 16 - Researching ERC-721 NFT implementation
 Log: Moving from fungible tokens to NFTs. I’m studying the ERC721 standard. Unlike ERC-20, each token ID here is unique. I’m looking at how Base handles NFT minting—low fees make it a prime spot for large-scale generative art collections.
+Day 17: NFT Metadata & IPFS
