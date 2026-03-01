@@ -61,3 +61,4 @@ Log: Learned that NFT images aren't usually "on-chain." Instead, the contract st
 Day 18: Access Control (Ownable)
 docs: Day 18 - Implementing Access Control with Ownable
 Log: Security is a priority. I’m using OpenZeppelin’s Ownable contract to ensure only the creator can trigger "Admin" functions like pausing the contract or withdrawing funds. onlyOwner is a powerful modifier that prevents unauthorized access.
+Day 19: Gas Optimization - Require vs Revert
