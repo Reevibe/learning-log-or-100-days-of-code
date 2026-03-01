@@ -60,3 +60,4 @@ docs: Day 17 - Understanding TokenURI and Metadata
 Log: Learned that NFT images aren't usually "on-chain." Instead, the contract stores a tokenURI that points to a JSON file, often hosted on IPFS. I’m documenting how to structure this metadata so that marketplaces like OpenSea can display the traits and images correctly.
 Day 18: Access Control (Ownable)
 docs: Day 18 - Implementing Access Control with Ownable
+Log: Security is a priority. I’m using OpenZeppelin’s Ownable contract to ensure only the creator can trigger "Admin" functions like pausing the contract or withdrawing funds. onlyOwner is a powerful modifier that prevents unauthorized access.
