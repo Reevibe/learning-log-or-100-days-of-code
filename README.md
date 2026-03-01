@@ -64,3 +64,4 @@ Log: Security is a priority. I’m using OpenZeppelin’s Ownable contract to en
 Day 19: Gas Optimization - Require vs Revert
 docs: Day 19 - Comparing Require and Revert for gas efficiency
 ​Log: Diving deeper into gas optimization. While require(condition, "error message") is common, using if(!condition) revert CustomError(); is actually cheaper in terms of gas on the L2. Every byte of the error string costs money, so custom errors are the way to go for professional Base devs.
+​Day 20: Event Logging
