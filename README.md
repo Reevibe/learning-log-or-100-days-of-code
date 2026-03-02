@@ -66,3 +66,4 @@ docs: Day 19 - Comparing Require and Revert for gas efficiency
 ​Log: Diving deeper into gas optimization. While require(condition, "error message") is common, using if(!condition) revert CustomError(); is actually cheaper in terms of gas on the L2. Every byte of the error string costs money, so custom errors are the way to go for professional Base devs.
 ​Day 20: Event Logging
 docs: Day 20 - Using Events for off-chain indexing
+Log: Contracts can't easily "talk" to frontends directly. Instead, they emit Events. I’ve added events for TokenMinted and FundsWithdrawn. This allows tools like "The Graph" or "Goldsky" to index the data so it can be displayed quickly in a web app.
