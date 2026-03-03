@@ -70,3 +70,4 @@ Log: Contracts can't easily "talk" to frontends directly. Instead, they emit Eve
 Day 21: Unit Testing with Forge
 docs: Day 21 - Writing unit tests in Solidity
 ​Log: Today I explored the test directory in my Foundry project. I'm learning how to use assertEq to check if a user's balance updates correctly after a transfer. Testing on-chain logic locally before deploying to Base Sepolia saves time and testnet ETH.
+Day 22: Forge Cheatcodes (prank & deal)
