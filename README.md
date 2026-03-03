@@ -69,3 +69,4 @@ docs: Day 20 - Using Events for off-chain indexing
 Log: Contracts can't easily "talk" to frontends directly. Instead, they emit Events. I’ve added events for TokenMinted and FundsWithdrawn. This allows tools like "The Graph" or "Goldsky" to index the data so it can be displayed quickly in a web app.
 Day 21: Unit Testing with Forge
 docs: Day 21 - Writing unit tests in Solidity
+​Log: Today I explored the test directory in my Foundry project. I'm learning how to use assertEq to check if a user's balance updates correctly after a transfer. Testing on-chain logic locally before deploying to Base Sepolia saves time and testnet ETH.
