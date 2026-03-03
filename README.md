@@ -72,3 +72,4 @@ docs: Day 21 - Writing unit tests in Solidity
 ​Log: Today I explored the test directory in my Foundry project. I'm learning how to use assertEq to check if a user's balance updates correctly after a transfer. Testing on-chain logic locally before deploying to Base Sepolia saves time and testnet ETH.
 Day 22: Forge Cheatcodes (prank & deal)
 docs: Day 22 - Mastering Foundry cheatcodes
+Log: Diving into "Cheatcodes." I learned how to use vm.prank(address) to simulate a transaction from a specific user and vm.deal(address, amount) to give a test account ETH. This makes it so much easier to test "Owner-only" functions.
