@@ -76,3 +76,4 @@ Log: Diving into "Cheatcodes." I learned how to use vm.prank(address) to simulat
 ​Day 23: Reentrancy Attacks
 docs: Day 23 - Researching Reentrancy security risks
 Log: Security day. I studied the "Reentrancy" attack, where a malicious contract calls back into your contract before the first function finishes. I'm documenting the Checks-Effects-Interactions pattern and why using OpenZeppelin's ReentrancyGuard is a standard on Base.
+Day 24: Gas Profiling
