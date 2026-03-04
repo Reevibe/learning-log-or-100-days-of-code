@@ -75,3 +75,4 @@ docs: Day 22 - Mastering Foundry cheatcodes
 Log: Diving into "Cheatcodes." I learned how to use vm.prank(address) to simulate a transaction from a specific user and vm.deal(address, amount) to give a test account ETH. This makes it so much easier to test "Owner-only" functions.
 ​Day 23: Reentrancy Attacks
 docs: Day 23 - Researching Reentrancy security risks
+Log: Security day. I studied the "Reentrancy" attack, where a malicious contract calls back into your contract before the first function finishes. I'm documenting the Checks-Effects-Interactions pattern and why using OpenZeppelin's ReentrancyGuard is a standard on Base.
