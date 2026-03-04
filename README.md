@@ -73,3 +73,4 @@ docs: Day 21 - Writing unit tests in Solidity
 Day 22: Forge Cheatcodes (prank & deal)
 docs: Day 22 - Mastering Foundry cheatcodes
 Log: Diving into "Cheatcodes." I learned how to use vm.prank(address) to simulate a transaction from a specific user and vm.deal(address, amount) to give a test account ETH. This makes it so much easier to test "Owner-only" functions.
+​Day 23: Reentrancy Attacks
