@@ -79,3 +79,4 @@ Log: Security day. I studied the "Reentrancy" attack, where a malicious contract
 Day 24: Gas Profiling
 docs: Day 24 - Running gas reports with Forge
 ​Log: Optimized my code today by running forge snapshot. This gives a detailed report of how much gas each function costs. I'm finding that using uint256 is often cheaper than smaller types like uint8 because of how the EVM stacks work.
+​Day 25: The "Dencun" Impact on Base
