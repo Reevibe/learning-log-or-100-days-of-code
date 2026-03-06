@@ -83,3 +83,4 @@ docs: Day 24 - Running gas reports with Forge
 docs: Day 25 - Impact of EIP-4844 on L2 fees
 Log: Researching the recent Ethereum upgrades. The introduction of "Blobs" (EIP-4844) has drastically lowered the cost for Base to post data to Mainnet. This is why transaction fees on Base are now often less than $0.01. It’s a game-changer for high-frequency on-chain apps.
 Day 26: React + Vite Setup for Base
+docs: Day 26 - Initializing Frontend with React & Vite
