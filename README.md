@@ -81,3 +81,4 @@ docs: Day 24 - Running gas reports with Forge
 ​Log: Optimized my code today by running forge snapshot. This gives a detailed report of how much gas each function costs. I'm finding that using uint256 is often cheaper than smaller types like uint8 because of how the EVM stacks work.
 ​Day 25: The "Dencun" Impact on Base
 docs: Day 25 - Impact of EIP-4844 on L2 fees
+Log: Researching the recent Ethereum upgrades. The introduction of "Blobs" (EIP-4844) has drastically lowered the cost for Base to post data to Mainnet. This is why transaction fees on Base are now often less than $0.01. It’s a game-changer for high-frequency on-chain apps.
