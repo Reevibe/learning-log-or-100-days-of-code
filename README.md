@@ -87,3 +87,4 @@ docs: Day 26 - Initializing Frontend with React & Vite
 Log: Today I moved beyond the smart contract and started on the user interface. I chose Vite for its speed. I’m preparing a clean environment to connect my Base contracts to a website. I also installed Tailwind CSS to ensure the dApp looks modern and responsive.
 ​Day 27: Installing Wagmi & Viem
 docs: Day 27 - Configuring Wagmi for Base network
+​Log: Installed the core Web3 frontend libraries: wagmi and viem. Wagmi provides the React hooks I need to interact with the blockchain, and Viem is the lightweight alternative to ethers.js. I’ve configured the base and baseSepolia chains in my config.ts file.
