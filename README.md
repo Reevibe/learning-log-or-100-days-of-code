@@ -88,3 +88,4 @@ Log: Today I moved beyond the smart contract and started on the user interface. 
 ​Day 27: Installing Wagmi & Viem
 docs: Day 27 - Configuring Wagmi for Base network
 ​Log: Installed the core Web3 frontend libraries: wagmi and viem. Wagmi provides the React hooks I need to interact with the blockchain, and Viem is the lightweight alternative to ethers.js. I’ve configured the base and baseSepolia chains in my config.ts file.
+Day 28: RainbowKit Integration
