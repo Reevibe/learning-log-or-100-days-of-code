@@ -94,3 +94,4 @@ Log: Added RainbowKit to handle wallet connections. It’s the gold standard for
 ​Day 29: Reading On-Chain Data
 docs: Day 29 - Using useReadContract for live data
 Log: Successfully pulled live data from my deployed contract using the useReadContract hook. I can now display the total supply of my token or an NFT's owner directly on the frontend without the user needing to check BaseScan.
+Day 30: TanStack Query & Performance
