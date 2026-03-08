@@ -90,3 +90,4 @@ docs: Day 27 - Configuring Wagmi for Base network
 ​Log: Installed the core Web3 frontend libraries: wagmi and viem. Wagmi provides the React hooks I need to interact with the blockchain, and Viem is the lightweight alternative to ethers.js. I’ve configured the base and baseSepolia chains in my config.ts file.
 Day 28: RainbowKit Integration
 docs: Day 28 - Implementing the Connect Wallet button
+Log: Added RainbowKit to handle wallet connections. It’s the gold standard for UX on Base. Now, users can easily connect their Coinbase Wallet or MetaMask. I spent time customizing the theme to match the "Base blue" aesthetic.
