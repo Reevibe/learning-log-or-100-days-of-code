@@ -93,3 +93,4 @@ docs: Day 28 - Implementing the Connect Wallet button
 Log: Added RainbowKit to handle wallet connections. It’s the gold standard for UX on Base. Now, users can easily connect their Coinbase Wallet or MetaMask. I spent time customizing the theme to match the "Base blue" aesthetic.
 ​Day 29: Reading On-Chain Data
 docs: Day 29 - Using useReadContract for live data
+Log: Successfully pulled live data from my deployed contract using the useReadContract hook. I can now display the total supply of my token or an NFT's owner directly on the frontend without the user needing to check BaseScan.
