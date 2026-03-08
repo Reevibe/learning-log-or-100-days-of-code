@@ -91,3 +91,4 @@ docs: Day 27 - Configuring Wagmi for Base network
 Day 28: RainbowKit Integration
 docs: Day 28 - Implementing the Connect Wallet button
 Log: Added RainbowKit to handle wallet connections. It’s the gold standard for UX on Base. Now, users can easily connect their Coinbase Wallet or MetaMask. I spent time customizing the theme to match the "Base blue" aesthetic.
+​Day 29: Reading On-Chain Data
