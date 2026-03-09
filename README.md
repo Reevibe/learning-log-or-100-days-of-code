@@ -96,3 +96,4 @@ docs: Day 29 - Using useReadContract for live data
 Log: Successfully pulled live data from my deployed contract using the useReadContract hook. I can now display the total supply of my token or an NFT's owner directly on the frontend without the user needing to check BaseScan.
 Day 30: TanStack Query & Performance
 docs: Day 30 - Managing async state with TanStack Query
+Log: Learned that wagmi relies on TanStack Query (formerly React Query) for caching and fetching. This is crucial for performance; it ensures the app doesn't refetch data every second, keeping the interface snappy and saving on RPC calls.
